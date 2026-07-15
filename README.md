@@ -1,5 +1,5 @@
 # proximity-controlled-lock
-ultrasonic sensor that triggers a lock if it detects an object within a range<br>detection is done by measuring total time taken for a sound wave to return
+lock that gets triggered if ultrasonic sensor detects an object within a range<br>detection is done by measuring total time taken for a sound wave to return
  (in microseconds)
 
  **V1:** first stage of development, simple circuit setup
